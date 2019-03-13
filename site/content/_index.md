@@ -9,7 +9,7 @@ intro:
   heading: intro heading
   text: intro text
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/android-chrome-192x192.png
     text: product 1
 values:
   heading: values heading
